@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
-global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
-global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
+global.vcardowner = ['351961887888'] //ganti nomer lu
+global.ownername = "𝙰 𝙳 𝚇" //ganti nama lu
+global.developer = "Adwaith" //name
+global.ytname = "YT: ADX HERE" //ur yt chanel name
+global.socialm = "https://www.instagram.com/_adx_here_" //taroh sosialmedia lu kalo ga punya biarin aja
+global.sgc = "https://wa.me/351961887888" //ganti group lu
+global.location = "Kerala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
-global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
+global.owner = ['351961887888'] //ur number
+global.ownernomer = "351961887888" //ur number
+global.ownertag = '3519618878886' //ur tag number
+global.premium = ['351961887888'] //ur premium number
+global.botname = 'ADX MD+' //ur bot name
+global.ownername = "ADWAITH ADX"
+global.linkz = "https://www.youtube.com/channel/UChC0yu72_wuTANeqahpyrnQ" //your theme url which will be displayed on whatsapp
+global.dana = "351961887888"
+global.pulsa = "351961887888"
+global.websitex = "https://www.youtube.com/channel/UChC0yu72_wuTANeqahpyrnQ" //ur website to be displayed
+global.websitex1 = "https://adxsmmpanel.store/"
+global.botscript = 'https://github.com/m4xp3in/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "A D X" //ur sticker watermark packname
+global.author = "ADWAITH" //ur sticker watermark author
+global.wm = "A D X" //ur watermark
 
 // Other
 global.sessionName = 'session'
